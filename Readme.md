@@ -2,6 +2,6 @@
 
 Some Description!
 
-## Sebheader
+## Subheader
 
 Watch tutorial on YouTube.
